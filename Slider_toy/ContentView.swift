@@ -21,7 +21,7 @@ struct ContentView: View {
         
         VStack {
             
-            Image(systemName: "umbrella.fill")
+            Image(systemName: "car.fill")
                 .resizable()
                 .foregroundColor(color)
                 .frame(width: 250, height: 250)
